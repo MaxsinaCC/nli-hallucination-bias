@@ -1,3 +1,7 @@
+
+
+[English version](README_en.md)
+
 # NLI 推理、幻觉检测与偏见评估实验
 
 本项目完成了自然语言推理（NLI）、大语言模型幻觉检测（Hallucination Detection）以及语言模型偏见评估（Bias Evaluation）三个任务，基于 Huggingface Transformers 框架和公开数据集进行实验。
