@@ -53,3 +53,4 @@ nli-hallucination-bias-eval/
 
 本实验在Colab上进行，使用T4-GPU，无需手动部署
 
+> 本项目为 HKUST NLP 课程individual project，旨在学习大模型的推理、微调和评估。具体项目要求请参考 IP_Requirements 中文档
